@@ -1,5 +1,5 @@
 # SupervisednUnsupervised
 
-Jupyter notebooks with notes on supervised and unsupervised learning algorithms.
-majorly clustering algorithms exploration
-Contains information on dimesnionality reduction, clustering techniques and few supervised algorithms and a couple of tiny experiments for drawing insights.
+- Jupyter notebooks with notes on supervised and unsupervised learning algorithms.
+- Exploration of clustering algorithms majorly
+- Contains information on dimensionality reduction, clustering techniques and few supervised algorithms and a couple of tiny experiments for drawing insights.
